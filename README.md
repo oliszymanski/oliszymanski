@@ -33,7 +33,4 @@ I'm also into `mathematics`, `physics`, `robotics` and `data science`.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliszymanski&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=monokai"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=oliszymanski&show_icons=true&theme=monokai&hide_border=true" alt="oliszymanski" />
-
-
 </center>
-<br><br>
