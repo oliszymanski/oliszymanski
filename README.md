@@ -31,7 +31,7 @@ I ping my latest projects on my <a href='https://twitter.com/oliszymanski'>Twitt
 ## My GitHub Stats:
 
 <center>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliszymanski&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=monokai"/>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliszymanski&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=monokai"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=oliszymanski&show_icons=true&theme=monokai&hide_border=true" alt="oliszymanski" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=oliszymanski&show_icons=true&theme=monokai&hide_border=true" alt="oliszymanski" />
 </center>
