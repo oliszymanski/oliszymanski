@@ -23,9 +23,12 @@ frontend.
 
 I'm also into `mathematics`, `physics`, `robotics` and `data science`.
 
-<br><br><br>
+I ping my latest projects on my <a href='https://twitter.com/oliszymanski'>Twitter</a> account.
 
-### My GitHub Stats:
+
+<br><br>
+
+## My GitHub Stats:
 
 <center>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliszymanski&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=monokai"/>
