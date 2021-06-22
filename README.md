@@ -22,8 +22,6 @@ day, Python is still my favourite programming language.
 frontend.
 
 I'm also into `mathematics`, `physics`, `robotics` and `data science`.
-<br>
-
 
 <br><br><br>
 
