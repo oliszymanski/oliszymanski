@@ -28,6 +28,32 @@ I ping my latest projects on my <a href='https://twitter.com/oliszymanski'>Twitt
 
 <br><br>
 
+
+
+
+## My latest projects:
+
+
+
+### average death rate count
+[![](https://github-readme-stats.vercel.app/api/pin/?username=oliszymanski&repo=Average-Death-Rate&hide_border=true&theme=monokai&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/oliszymanski/Average-Death-Rate)
+
+
+
+<br>
+
+### My personal portfolio website
+[![](https://github-readme-stats.vercel.app/api/pin/?username=oliszymanski&repo=Personal-portfolio&hide_border=true&theme=monokai&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/oliszymanski/Personal-portfolio)
+
+
+
+<br>
+
+### Easy Java calculator
+[![](https://github-readme-stats.vercel.app/api/pin/?username=oliszymanski&repo=Easy-calculator&hide_border=true&theme=monokai&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/oliszymanski/Easy-calculator)
+
+<br><br><br>
+
 ## My GitHub Stats:
 
 <center>
