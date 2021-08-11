@@ -12,7 +12,7 @@
 My name is Oliwier, and I'm a self-taught coder. 
 
 🚀 I wrote my first 'Hello World!' in `Python` when I was 13 years old. From that
-day, Python is still my favourite programming language.
+day, Python is one of my favourite programming language.
 
 🏫 as a student, I'm still attending school
 
