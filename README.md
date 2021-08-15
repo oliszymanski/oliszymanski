@@ -43,7 +43,7 @@ I ping my latest projects on my <a href='https://twitter.com/oliszymanski'>Twitt
 <br>
 
 ### My personal portfolio website
-[![](https://github-readme-stats.vercel.app/api/pin/?username=oliszymanski&repo=Personal-portfolio&hide_border=true&theme=monokai&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/oliszymanski/Personal-portfolio)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=oliszymanski&repo=Count-DNA-Nucleotides&hide_border=true&theme=monokai&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/oliszymanski/Count-DNA-Nucleotides)
 
 
 
