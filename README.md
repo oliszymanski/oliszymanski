@@ -21,11 +21,11 @@ I wanted to write the best quality code, so I decided to take up `QA` by learnin
 <br>
 
 I wanted to go even deeper: into web development. From 8 grade of primary school, I've learned `HTML/CSS` and `Bootstrap 5`
-framework for using FlexBox. I made some easy projects such as <a href='https://github.com/oliszymanski/Firefox-Essence-Dark-UI'>FireFox UI</a>
+framework for using FlexBox. I made some easy projects such as <a href='https://github.com/oliszymanski/Firefox-Essence-Dark-UI' target='_blank'>FireFox UI</a>
 using CSS only.
 
 Along the way, I'm learning `JS`, `Node.js`, `React.js` and `Wordpress` for fullstack development. With all that knowledge, I've made a business
-webpage: <a href='https://lux-optyka.pl/'>Lux-Optyka</a>.
+webpage: <a href='https://lux-optyka.pl/' target='_blank'>Lux-Optyka</a>.
 
 <br>
 
