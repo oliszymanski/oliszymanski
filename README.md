@@ -14,7 +14,9 @@ Since then, I make projects with Python.
 Love using SciPy tools (`Numpy`, `Matplotlib` and `Pandas`) to create useful algorythms and tools that can help others in
 doing their job.
 
-Along the way, I have also learnt tools like `Tensorflow`, `Keras` and `BioPython` for my projects.
+Along the way, I have also learnt tools like `Tensorflow`, `Keras` and `BioPython` for most of my projects.
+
+I wanted to write the best quality code, so I decided to take up `QA` by learning tools like `Robot` or `Selenium`.
 
 <br>
 
@@ -32,7 +34,7 @@ To learn more about OOP, I've learned to use `Java 18` and `Java 11`, and made s
 
 
 
-## Skills and knowledge:
+## My skills and knowledge:
 ML engineering and data science:
 - Python    
 - Pandas   
