@@ -29,7 +29,7 @@ ML engineering and data science:
 - GitHub, GitLab
 - Język angielski (C2)
   
-### Web Development Skills
+Web Development Skills
 - HTML/CSS/JS (4/5)
 - FlexBox
 - Front-end Frameworks (Bootstrap 5 (3/5), React.js (2/5) ) 
