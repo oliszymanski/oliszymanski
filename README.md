@@ -11,7 +11,23 @@
 🚀 My name is Oliwier, and I'm a self-taught coder. I've started my journey with `Python` at the age of 13. 
 Since then, I make projects with Python.
 
-Love using SciPy tools (`Numpy`, `Matplotlib` and `Pandas`) to create useful algorythms and tools that can help others.
+Love using SciPy tools (`Numpy`, `Matplotlib` and `Pandas`) to create useful algorythms and tools that can help others in
+doing their job.
+
+Along the way, I have also learnt tools like `Tensorflow`, `Keras` and `BioPython` for my projects.
+
+<br>
+
+I wanted to go even deeper: into web development. From 8 grade of primary school, I've learned `HTML/CSS` and `Bootstrap 5`
+framework for using FlexBox. I made some easy projects such as <a href='https://github.com/oliszymanski/Firefox-Essence-Dark-UI'>FireFox UI</a>
+using CSS only.
+
+Along the way, I'm learning `JS`, `Node.js`, `React.js` and `Wordpress` for fullstack development. With all that knowledge, I've made a business
+webpage: <a href='https://lux-optyka.pl/'>Lux-Optyka</a>.
+
+<br>
+
+To learn more about OOP, I've learned to use `Java 18` and `Java 11`, and made some simple projects using also `JavaFX`.
 
 
 
@@ -28,7 +44,9 @@ ML engineering and data science:
 - Git   
 - GitHub, GitLab
 - Język angielski (C2)
-  
+
+<br>
+
 Web Development Skills
 - HTML/CSS/JS (4/5)
 - FlexBox
@@ -41,8 +59,6 @@ Web Development Skills
 
 
 ### My interests:
-🔭 I'm into
-
 🏫 as a student, I'm still attending school
 
 🔭 I'm working on my portfolio website
