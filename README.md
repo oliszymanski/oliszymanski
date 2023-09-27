@@ -4,15 +4,82 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/oliszymanski)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/olii._pv/)
-[![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/OliCodes?color=orange&label=Reddit%20karma&logo=reddit&logoColor=orange)](https://reddit.com/user/OliCodes)
 ![](https://komarev.com/ghpvc/?username=Piotrek-hub&color=ff69b4)
 
 
 ### About me:
-My name is Oliwier, and I'm a self-taught coder. 
+🚀 My name is Oliwier, and I'm a self-taught coder. I've started my journey with `Python` at the age of 13. 
+Since then, I make projects with Python.
 
-🚀 I wrote my first 'Hello World!' in `Python` when I was 13 years old. From that
-day, Python is one of my favourite programming language.
+Love using SciPy tools (`Numpy`, `Matplotlib` and `Pandas`) to create useful algorythms and tools that can help others.
+
+
+
+
+<div class="skills">
+  
+  <div class="column">
+  
+    ## Skills and knowledge:
+    ML engineering and data science:
+    - Python    
+    - Pandas   
+    - Matplotlib   
+    - Numpy  
+    - Tensorflow  
+    - SQL  
+    - PostgreSQL 
+    - Git   
+    - GitHub, GitLab
+    - Język angielski (C2)
+  
+  </div>
+
+  <div class="column">
+    ### Web Development Skills
+    - HTML/CSS/JS (4/5)
+    - FlexBox
+    - Front-end Frameworks (Bootstrap 5 (3/5), React.js (2/5) ) 
+    - Back-end Development
+    - Server-Side Scripting ( Node.js (3/5), Django (3/5))
+    - Database Management (PosgreSQL (2/5))
+    - HTTP/FTP  
+    - Git
+  
+  </div>
+
+</div>
+
+<style>
+  .skills {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .column {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 5px;
+    background-color: #f5f5f5;
+  }
+
+  /* Style the skill lists */
+  .column ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+
+  /* Style the headings */
+  .column h3 {
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+</style>
+
+### My interests:
+🔭 I'm into
 
 🏫 as a student, I'm still attending school
 
