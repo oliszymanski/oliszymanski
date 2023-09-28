@@ -1,13 +1,11 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello world!
 
-## Nice to see you here! 
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/oliszymanski)
+## Nice to see you here!
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/olii._pv/)
-![](https://komarev.com/ghpvc/?username=Piotrek-hub&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=oliszymanski&color=ff69b4)
 
 
-### About me:
+### A bit about me
 🚀 My name is Oliwier, and I'm a self-taught coder. I've started my journey with `Python` at the age of 13. 
 Since then, I make projects with Python.
 
@@ -31,50 +29,90 @@ webpage: <a href='https://lux-optyka.pl/' target='_blank'>Lux-Optyka</a>.
 
 To learn more about OOP, I've learned to use `Java 18` and `Java 11`, and made some simple projects using also `JavaFX`.
 
-
-
-
-## My skills and knowledge:
-ML engineering and data science:
-- Python    
-- Pandas   
-- Matplotlib   
-- Numpy  
-- Tensorflow  
-- SQL  
-- PostgreSQL 
-- Git   
-- GitHub, GitLab
-- Język angielski (C2)
+I ping my latest projects on my <a href='https://twitter.com/oliszymanski'>Twitter</a> account.
 
 <br>
 
-Web Development Skills
-- HTML/CSS/JS (4/5)
-- FlexBox
-- Front-end Frameworks (Bootstrap 5 (3/5), React.js (2/5) ) 
-- Back-end Development
-- Server-Side Scripting ( Node.js (3/5), Django (3/5))
-- Database Management (PosgreSQL (2/5))
-- HTTP/FTP  
-- Git
-
+<hr>
 
 ### My interests:
-🏫 as a student, I'm still attending school
 
-🔭 I'm working on my portfolio website
+👩‍💻 Coding my projects
 
-👩‍💻 I'm currently learning `Java`, `CSS` design frameworks and other new technologies that are used in backend and / or
-frontend.
+I'm into `mathematics`, `physics`, `robotics` and `data science`.
 
-I'm also into `mathematics`, `physics`, `robotics` and `data science`.
+I also love Playing chess and analysing chess games, swimming, archery, forest walking and kayaking.
 
-I ping my latest projects on my <a href='https://twitter.com/oliszymanski'>Twitter</a> account.
 
+
+### Let's connect:
+<p align="left">
+<a href="https://dev.to/oliszymanski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="oliszymanski" height="30" width="40" /></a>
+<a href="https://twitter.com/oliszymanski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oliszymanski" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/oliwier-szyma%c5%84ski-007872207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oliwier-szyma%c5%84ski-007872207/" height="30" width="40" /></a>
+<a href="https://kaggle.com/oliwier szymański" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="oliwier szymański" height="30" width="40" /></a>
+</p>
 
 <br><br>
 
+
+
+## My skills and tools I use for...
+
+
+### Backend
+<img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' />
+<img src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white' />
+<img src='https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white' />
+<img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white' />
+
+
+<img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' />
+
+### Machine learning
+<img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white' />
+<img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' />
+
+### Design and frontend
+<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
+<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' />
+<img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' />
+<img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' />
+<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
+
+### Day2day workflow
+<img src='https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252' />
+<img src='https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white' />
+<img src='https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white' />
+<img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' />
+
+<img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white' />
+<img src='https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white' />
+<img src='https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white' />
+<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' />
+
+### Other skills
+Python:
+- SciPy (Matplotlib, Pandas, Numpy)
+- Robot Framework
+
+Web development:
+- Node.js
+- HTTP/FTP
+
+
+
+### Soft skills:
+I'm good at
+- Time management
+- organizing
+- analytical thinking
+- problem-solving
+- teamwork
+- fast learning
+- communicating
+
+<br><br>
 
 
 
@@ -103,8 +141,12 @@ I ping my latest projects on my <a href='https://twitter.com/oliszymanski'>Twitt
 
 ## My GitHub Stats:
 
-<center>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliszymanski&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=monokai"/>
 
+<br>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=oliszymanski&show_icons=true&theme=monokai&hide_border=true" alt="oliszymanski" />
-</center>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oliszymanski&theme-dark" alt="oliszymanski" /></p>
