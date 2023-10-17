@@ -117,8 +117,8 @@ I'm good at
 
 <br>
 
-### Easy Java calculator
-[![](https://github-readme-stats.vercel.app/api/pin/?username=oliszymanski&repo=Easy-calculator&hide_border=true&theme=monokai&cache_seconds=7200&border_radius=8&show_owner=false)](https://github.com/oliszymanski/Easy-calculator)
+### Genetic diversity in legionella - scientific tools
+[![](https://github-readme-stats.vercel.app/api/pin/?username=oliszymanski&repo=Easy-calculator&hide_border=true&theme=monokai&cache_seconds=7200&border_radius=8&show_owner=false)](genetic-diversity-in-legionella)
 
 <br><br><br>
 
