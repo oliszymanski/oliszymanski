@@ -36,9 +36,9 @@ Curated implementations showcasing finance-applied analytics:
   *Technologies: NumPy, Pandas.*
 
 Explore the full ML suite: [oliszymanski/ml-models](https://github.com/oliszymanski/ml-models).
+ <hr>
 
-## Connect
-Eager to discuss finance analytics opportunities or collaborations.
+Let's connect. Eager to discuss finance analytics opportunities or collaborations.
 
 ![Oliwier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliszymanski&show_icons=true&theme=radical&hide_border=true)  
 *Advancing data's transformative role in finance—one insight at a time.*
