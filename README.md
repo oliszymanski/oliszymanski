@@ -23,7 +23,7 @@ Curated implementations showcasing finance-applied analytics:
 - **[Loan Risk Model: Credit Decision Support](https://github.com/oliszymanski/loan-risk-prediction)**  
   Developed decision trees and logistic regression models to evaluate default probabilities from historical lending data, enhancing approval accuracy in simulated banking scenarios.
   
-   *Technologies: TensorFlow, Pandas, Scikit-Learn.*
+   *Technologies: TensorFlow, Pandas, Scikit-Learn, YDF.*
 
 - **[Digit OCR: High-Accuracy Recognition](https://github.com/oliszymanski/ml-models/tree/main/digit-ocr)**  
   Trained a convolutional neural network achieving 98% accuracy on digit extraction documents, streamlining automated data entry.
